@@ -1,0 +1,28 @@
+name: shiftdelivery
+favicon: null
+layout_spectrum: 0.20382657530717552
+typography_spectrum: 0.2893397225998342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.11472432361915708
+  lightness: 0.2784029149916023
+  saturation: 0.17318224720656872
+  rhythmicContrast: 0.44952800404280424
+purpose: []
